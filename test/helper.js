@@ -22,6 +22,7 @@
   testSupport.requireICAL = function() {
     var files = [
       'helpers',
+      'alarm',
       'recur_expansion',
       'event',
       'component_parser',

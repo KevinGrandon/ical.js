@@ -18,6 +18,7 @@ VENDOR_FILE_LIST= $(LIB)/helpers.js \
 	$(LIB)/recur_iterator.js \
 	$(LIB)/recur_expansion.js \
 	$(LIB)/event.js \
+	$(LIB)/alarm.js \
 	$(LIB)/component_parser.js
 
 OLSON_DB_REMOTE=http://www.iana.org/time-zones/repository/releases/tzdata2012j.tar.gz
